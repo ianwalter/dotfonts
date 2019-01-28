@@ -1,5 +1,5 @@
 # dotfonts
-> Ian's font config (part of [dotfiles][dotfilesUrl])
+> Ian's fonts configuration (part of [dotfiles][dotfilesUrl])
 
 ## Installation
 
