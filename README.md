@@ -17,4 +17,4 @@ Created by [Ian Walter](https://iankwalter.com)
 
 [ptUrl]: https://github.com/elementary/terminal
 [dotfilesUrl]: https://github.com/ianwalter/dotfiles
-[licenseUrl]: https://github.com/ianwalter/dotpantheon/blob/master/LICENSE
+[licenseUrl]: https://github.com/ianwalter/dotfonts/blob/master/LICENSE
