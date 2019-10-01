@@ -1,6 +1,7 @@
 #!/bin/bash
 
-if [[ $(uname) == 'Linux' ]]; then
+platform=$(uname)
+if [[ $platform == 'Linux' ]]; then
 
   # Create the .fonts directory if necessary.
   if [ ! -d ~/.fonts ]; then
@@ -15,7 +16,7 @@ if [[ $(uname) == 'Linux' ]]; then
 
 fi
 
-if [[ $(uname) == 'Darwin' ]]; then
+if [[ $platform == 'Darwin' ]]; then
 
   # Copy fonts into the user's fonts directory.
   cp fonts/* ~/Library/fonts
