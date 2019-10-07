@@ -24,5 +24,5 @@ if [[ $platform == 'Darwin' ]]; then
 fi
 
 if [[ $? == 0 ]]; then
-  echo "Installed fonts successfully."
+  printf "\n✅ Installed fonts successfully.\n"
 fi
